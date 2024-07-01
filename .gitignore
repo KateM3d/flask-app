@@ -1,6 +1,8 @@
 # Python
 venv/
 .env
+__pycache__/
+.DS_Store  # if you are on macOS
 
 # Compiled files
 *.pyc
